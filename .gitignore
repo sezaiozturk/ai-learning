@@ -1,0 +1,68 @@
+# Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+.idea/
+.vscode/
+
+# IDE or text editor folders
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# PyInstaller
+*.spec
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Pytest
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# pylint
+.pylint.d/
+
+# pipenv
+Pipfile.lock
+
+# pip wheel
+*.whl
+
+# pyenv
+.python-version
+
+# dotenv
+.env
+.env.*
+
+# SQLite
+*.db
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
